@@ -5,6 +5,8 @@
 <br>
 <div>Projeto criado na Missão Origin na NLW Return, da RocketSeat! 💜</div>
 <br>
+<div>Página institucional no formato One Page, responsiva, para usar em diversos tipos de micros, pequenas e médias empresas.</div>
+<br>
 
     Criado com as Tecnologias
 
